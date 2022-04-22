@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Disket Mono';
+	src: url(../../assets/fonts/DisketMono.woff2) format('woff2'),
+	url(../../assets/fonts/DisketMono.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Disket Mono';
+	src: url(../../assets/fonts/DisketMono-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/DisketMono-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
